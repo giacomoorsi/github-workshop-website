@@ -12,5 +12,5 @@ Not bound by the methodologies of a single field, the Lab is characterized by an
 - Åse Håtveit, *Research Fellow*
 - Petar Koljensic, *Research Fellow*
 - [Giacomo Orsi](researchers/giacomo-orsi.md), *Research Fellow*
-- Romme te Velde, *Research Affiliate*
+- [Romme te Velde](researchers/romme-te-velde.md), *Research Affiliate*
 - [Mattia Ceccarelli](researchers/mattia-ceccarelli.md), *Visiting Student*
