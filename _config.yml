@@ -20,8 +20,8 @@
 
 title: [Senseable City Amsterdam]
 description: [This is a (demo) website for the resarchers of Senseable City Amsterdam. Here you can find our profiles and the projects on which are working on.]
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "github-workshop-website" # the subpath of your site, e.g. /blog
+url: "https://giacomoorsi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
