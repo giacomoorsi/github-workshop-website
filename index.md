@@ -13,4 +13,4 @@ Not bound by the methodologies of a single field, the Lab is characterized by an
 - Petar Koljensic, *Research Fellow*
 - [Giacomo Orsi](researchers/giacomo-orsi.md), *Research Fellow*
 - Romme te Velde, *Research Affiliate*
-- Mattia Ceccarelli, *Visiting Student*
+- [Mattia Ceccarelli](researchers/mattia-ceccarelli.md), *Visiting Student*
