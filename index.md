@@ -6,11 +6,11 @@ Not bound by the methodologies of a single field, the Lab is characterized by an
 ### Researchers
 - Titus Venverloo, *Research Lead*
 - Tsui Tanya, *Postdoc Research Fellow*
-- Lukas Beuster, *PhD Student*
+- [Lukas Beuster](researchers/lukas-beuster.md), *PhD Student*
 - Joe Llewellyn, *PhD Student*
 - Michiel van Selm, *Research Fellow*
 - Åse Håtveit, *Research Fellow*
 - Petar Koljensic, *Research Fellow*
 - [Giacomo Orsi](researchers/giacomo-orsi.md), *Research Fellow*
 - [Romme te Velde](researchers/romme-te-velde.md), *Research Affiliate*
-- Mattia Ceccarelli, *Visiting Student*
+- [Mattia Ceccarelli](researchers/mattia-ceccarelli.md), *Visiting Student*
