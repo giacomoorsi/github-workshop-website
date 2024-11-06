@@ -11,6 +11,6 @@ Not bound by the methodologies of a single field, the Lab is characterized by an
 - Michiel van Selm, *Research Fellow*
 - Åse Håtveit, *Research Fellow*
 - Petar Koljensic, *Research Fellow*
-- [Giacomo Orsi](giacomo-orsi.md), *Research Fellow*
+- [Giacomo Orsi](researchers/giacomo-orsi.md), *Research Fellow*
 - Romme te Velde, *Research Affiliate*
 - Mattia Ceccarelli, *Visiting Student*
