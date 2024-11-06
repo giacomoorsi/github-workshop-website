@@ -6,7 +6,7 @@ Not bound by the methodologies of a single field, the Lab is characterized by an
 ### Researchers
 - Titus Venverloo, *Research Lead*
 - Tsui Tanya, *Postdoc Research Fellow*
-- Lukas Beuster, *PhD Student*
+- [Lukas Beuster](researchers/lukas-beuster.md), *PhD Student*
 - Joe Llewellyn, *PhD Student*
 - Michiel van Selm, *Research Fellow*
 - Åse Håtveit, *Research Fellow*
